@@ -124,6 +124,11 @@ p {
   text-decoration: underline;
 }
 
+.project ul {
+  margin-bottom: 20px; /* Increase this value for more space */
+}
+
+
 .skill-row {
   width: 50%;
   margin: 100px auto 100px auto;
